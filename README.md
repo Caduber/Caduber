@@ -1,6 +1,6 @@
 <div align="center">
 
-# Carlos 👨‍💻
+# Carlos Eduardo M. D. Lopes👨‍💻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+%7C+Data+Science;JavaScript+%7C+Python+%7C+Java+%7C+C)](https://git.io/typing-svg)
 
