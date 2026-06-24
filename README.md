@@ -1,41 +1,28 @@
-<h1 align="left">Hey 👋 Olá Mundo!</h1>
+# Olá, eu sou o Carlos Eduardo (Cadu) 👋
 
-###
+Sou um desenvolvedor focado em construir e otimizar aplicações Web e Back-end. Busco criar códigos limpos, eficientes e que resolvam problemas reais de forma escalável. Atualmente, estou focado em evoluir minhas habilidades em arquitetura de software e DevOps.
 
-<p align="left">Me chamo Carlos Eduardo Lopes, mas pode me chamar de Cadu :)</p>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">Desenvolvedor full-stack</p>
+*   **Linguagens & Ecossistema Web:** JavaScript, TypeScript, Java
+*   **Front-end:** React
+*   **Back-end & Runtime:** Node.js
+*   **Bancos de Dados:** PostgreSQL, MySQL (e MySQL Workbench)
+*   **Ferramentas & Infraestrutura:** Git, GitHub, Docker (em constante aprendizado)
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 🚀 O que estou buscando?
 
-###
+Estou em busca de oportunidades profissionais como **Desenvolvedor Software**. Tenho total interesse em posições onde eu possa colaborar com times ágeis, contribuir para a otimização de sistemas e continuar expandindo meu conhecimento técnico.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" /> -->
-  
-</div>
+Se você está recrutando ou quer trocar uma ideia sobre tecnologia, fique à vontade para entrar em contato!
 
-###
+---
+
+### 📬 Vamos nos conectar?
+
+*   **LinkedIn:** [linkedin.com/in/caduber](https://linkedin.com/in/caduber)
+*   **E-mail:** [caduberdev@gmail.com](mailto:caduberdev@gmail.com)
